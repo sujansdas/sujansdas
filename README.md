@@ -17,3 +17,8 @@
     <img src="https://leetcard.jacoblin.cool/_Sujan__S_?theme=dark&ext=activity" />
   </a>
 </p>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
+
+---
