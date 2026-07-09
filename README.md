@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/SujanS_B-Tech/">
-    <img src="https://leetcard.jacoblin.cool/_Sujan__S_?theme=dark&ext=activity" />
+    <img src="https://leetcard.jacoblin.cool/SujanS_B-Tech?theme=dark&ext=activity" />
   </a>
   <br>
 ##  DAILY MOTIVATIONS 💪
